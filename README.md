@@ -10,3 +10,5 @@ Checklist
 
 * [Scrum Guidelines](http://www.scrumdesk.com/Download/Documents/AgileResources/ScrumGuidelines.pdf)
 
+
+http://daily-scrum.com/scrum
