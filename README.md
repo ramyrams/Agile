@@ -12,3 +12,11 @@ Checklist
 
 
 http://daily-scrum.com/scrum
+
+Scrum - Doing Twice the work in half the time Series
+http://geekswithblogs.net/gevjen/archive/2016/07/15/185376.aspx
+http://geekswithblogs.net/gevjen/archive/2016/07/11/184732.aspx
+http://geekswithblogs.net/gevjen/archive/2016/07/12/184806.aspx
+http://geekswithblogs.net/gevjen/archive/2016/07/19/186059.aspx
+http://geekswithblogs.net/gevjen/archive/2016/07/20/186294.aspx
+http://geekswithblogs.net/gevjen/archive/2016/07/21/186640.aspx
